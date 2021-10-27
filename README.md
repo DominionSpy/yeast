@@ -24,8 +24,8 @@ The XSD for this file is:
 <?xml version="1.0" encoding="windows-1252" ?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns:y="http://dev.dominionspy.com/xmlns/yeast"
-            xmlns="http://dev.dominionspy/xmlns/material-list"
-            targetNamespace="http://dev.dominionspy/xmlns/material-list"
+            xmlns="http://dev.dominionspy.com/xmlns/material-list"
+            targetNamespace="http://dev.dominionspy.com/xmlns/material-list"
             version="3">
   <xsd:element name="message" y:separator=";">
     <xsd:complexType>
